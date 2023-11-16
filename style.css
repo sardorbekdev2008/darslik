@@ -1,0 +1,62 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+title{
+text-align: center;
+}
+.one_h1{
+text-align: center;
+font-family:serif;
+font-size: 40px;
+margin-top: 50px;
+}
+.nameHolder{
+    margin-left: 400px;
+    margin-top: 50px;
+    height: 65px;
+    width: 500px;
+}
+.emailHolder{
+    margin-left: 400px;
+    margin-top: 50px;
+    height: 65px;
+    width: 500px;
+}
+.button1{
+    margin-left: 400px;
+    margin-top: 50px;
+    height: 65px;
+    width: 500px;
+    background-color: rgb(15, 126, 245);
+}
+.button1 a{
+    text-decoration: none;
+    color: white;
+}
+.text_p{
+    margin-left: 500px;
+font-family: cursive;
+margin-top: 10px;
+}
+.button2{
+    margin-left: 400px;
+    margin-top: 50px;
+    height: 65px;
+    width: 500px;
+    background-color: rgb(15, 126, 245);
+}
+.button2 a{
+    text-decoration: none;
+    color: white;
+}
+.input1{
+    margin-top: 20px;
+    margin-left:400px;
+    height: 65;
+    width:510px;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+}
